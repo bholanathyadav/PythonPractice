@@ -1,2 +1,2 @@
 # PythonPractice
-Day to day Python practice done on Jupyter Notebooks.
+Day to day Python practice done.
